@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+  float: right;
+  color: initial;
+  padding: 10px;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .Image img {
+    margin: auto;
+    height: 400px;
+    width: 400px;
+  }
+}
+
