@@ -1,0 +1,10 @@
+.photo-gallery {
+  margin-top: 30px;
+}
+
+a:hover {
+  color: #e92ce9;
+  text-decoration: bold;
+  font-weight: bold;
+}
+
